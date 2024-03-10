@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @dimishor
+- 👀 I’m interested in technology and arts
+- 🌱 I’m currently learning pyhton
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: atm not at all
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: facts are not fun, but they might become a source of amusement
